@@ -1,0 +1,2 @@
+This is a project where I created a multi threaded server that can play multiple blackjack games at once with 2 clients. 
+You have to start the ServerTest class and the ClientTest class to actually run the server. I know it works on linux and Windows machines. You also might have to change the options for CLienTest to be able to run multiple times, because the .idea for some reason refuses to remember that setting. So start the ServerTest and then run 2 instances of ClientTest.
